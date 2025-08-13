@@ -3,8 +3,6 @@ int main(){
   int num;
   printf("Digite um numero: ");
   scanf("%d", &num);
-  if(num 
-      }
-
+  printf("%d, !(n%2));
   return 0;
 }
